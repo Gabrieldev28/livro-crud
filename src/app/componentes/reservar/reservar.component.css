@@ -1,0 +1,39 @@
+.container{
+    margin: 14px;
+
+}
+.header>h3{
+    font-size: 2rem;
+}
+.opt{
+    margin: 12px 0;
+}
+.opt>button{
+    padding: 2px 6px;
+    font-weight: 500;
+    border-radius: 4px;
+    border: 1px solid #6B6B6B;
+    margin-right: 8px;
+
+}
+.opt>input{
+    padding: 2px 6px;
+    border-radius: 4px;
+    border: solid 1px #6b6b6b;
+    width: 200px;
+    margin-right: 8px;
+}
+.opt>select{
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-weight: 500;
+}
+th, td{
+    padding: 4px 20px;
+    text-align: center;
+}
+td>button{
+    padding: 2px 6px;
+    margin-right: 2px;
+    
+}

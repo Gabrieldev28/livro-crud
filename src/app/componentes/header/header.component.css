@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px;
+}
+.rotas>span{
+    margin-right: 12px;
+}
+.rotas>span>a{
+    text-decoration: none;
+    font-weight: 500;
+    
+}
